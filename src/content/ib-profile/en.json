@@ -1,0 +1,67 @@
+{
+  "title": "IB Learner Profile and CAS",
+  "subtitle": "How the IB Learner Profile Connects with CAS",
+  "introduction": "The IB Learner Profile describes the attributes and qualities that the International Baccalaureate aims to develop in all IB students. CAS experiences provide authentic opportunities to develop and demonstrate these attributes in action.",
+  "profiles": [
+    {
+      "attribute": "Inquirers",
+      "icon": "🔍",
+      "description": "We nurture our curiosity, developing skills for inquiry and research. We know how to learn independently and with others. We learn with enthusiasm and sustain our love of learning throughout life.",
+      "casConnection": "Through CAS, students explore new interests and investigate community needs, developing research skills and curiosity about the world around them."
+    },
+    {
+      "attribute": "Knowledgeable",
+      "icon": "📚",
+      "description": "We develop and use conceptual understanding, exploring knowledge across a range of disciplines. We engage with issues and ideas that have local and global significance.",
+      "casConnection": "CAS experiences expose students to diverse fields of knowledge, from arts to sciences to community service, broadening their understanding of global and local issues."
+    },
+    {
+      "attribute": "Thinkers",
+      "icon": "💭",
+      "description": "We use critical and creative thinking skills to analyze and take responsible action on complex problems. We exercise initiative in making reasoned, ethical decisions.",
+      "casConnection": "Planning and implementing CAS projects requires creative problem-solving and critical thinking to address real-world challenges effectively."
+    },
+    {
+      "attribute": "Communicators",
+      "icon": "💬",
+      "description": "We express ourselves confidently and creatively in more than one language and in many ways. We collaborate effectively, listening carefully to the perspectives of other individuals and groups.",
+      "casConnection": "CAS activities often involve teamwork, presentations, and collaboration with diverse groups, developing communication skills in various contexts."
+    },
+    {
+      "attribute": "Principled",
+      "icon": "⚖️",
+      "description": "We act with integrity and honesty, with a strong sense of fairness and justice, and with respect for the dignity and rights of people everywhere. We take responsibility for our actions and their consequences.",
+      "casConnection": "Service activities particularly develop ethical awareness as students engage with social justice issues and take responsibility for their impact on communities."
+    },
+    {
+      "attribute": "Open-minded",
+      "icon": "🌍",
+      "description": "We critically appreciate our own cultures and personal histories, as well as the values and traditions of others. We seek and evaluate a range of points of view, and we are willing to grow from the experience.",
+      "casConnection": "Working with diverse communities and engaging in different cultural activities helps students appreciate multiple perspectives and broaden their worldview."
+    },
+    {
+      "attribute": "Caring",
+      "icon": "❤️",
+      "description": "We show empathy, compassion and respect. We have a commitment to service, and we act to make a positive difference in the lives of others and in the world around us.",
+      "casConnection": "Service is at the heart of CAS, encouraging students to show compassion and make meaningful contributions to their communities."
+    },
+    {
+      "attribute": "Risk-takers",
+      "icon": "🎯",
+      "description": "We approach uncertainty with forethought and determination; we work independently and cooperatively to explore new ideas and innovative strategies. We are resourceful and resilient in the face of challenges and change.",
+      "casConnection": "CAS challenges students to step outside their comfort zones, try new activities, and develop resilience through facing and overcoming obstacles."
+    },
+    {
+      "attribute": "Balanced",
+      "icon": "⚖️",
+      "description": "We understand the importance of balancing different aspects of our lives—intellectual, physical, and emotional—to achieve well-being for ourselves and others. We recognize our interdependence with other people and with the world in which we live.",
+      "casConnection": "The three strands of CAS (Creativity, Activity, Service) promote a balanced approach to personal development, ensuring growth in multiple dimensions."
+    },
+    {
+      "attribute": "Reflective",
+      "icon": "🪞",
+      "description": "We thoughtfully consider the world and our own ideas and experience. We work to understand our strengths and weaknesses in order to support our learning and personal development.",
+      "casConnection": "Reflection is a core component of CAS, with students regularly examining their experiences, learning outcomes, and personal growth throughout their journey."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Entrevistas CAS",
+  "subtitle": "Tres Conversaciones Formales Sobre Mi Viaje CAS",
+  "introduction": "A lo largo del programa CAS, participo en tres entrevistas formales para reflexionar sobre mis experiencias, discutir mi progreso y planificar el crecimiento futuro. Estas entrevistas proporcionan valiosas oportunidades para la reflexión estructurada y la retroalimentación.",
+  "interviews": [
+    {
+      "id": "interview-1",
+      "number": 1,
+      "date": "Por determinar",
+      "interviewer": "Coordinador CAS",
+      "format": "written",
+      "content": "La Entrevista 1 tendrá lugar al principio de mi viaje CAS. Esta conversación se centrará en mis objetivos iniciales, expectativas y planes para CAS. Discutiremos las experiencias que estoy considerando y cómo se alinean con las áreas CAS y los resultados de aprendizaje.",
+      "reflection": "Esta entrevista se actualizará después de que tenga lugar."
+    },
+    {
+      "id": "interview-2",
+      "number": 2,
+      "date": "Por determinar",
+      "interviewer": "Coordinador CAS",
+      "format": "written",
+      "content": "La Entrevista 2 ocurrirá a mitad de mi programa CAS. Esta conversación revisará mi progreso, discutirá los desafíos que he enfrentado y celebrará los éxitos. Reflexionaremos sobre cómo mis experiencias han contribuido a mi crecimiento personal y al logro de los resultados de aprendizaje.",
+      "reflection": "Esta entrevista se actualizará después de que tenga lugar."
+    },
+    {
+      "id": "interview-3",
+      "number": 3,
+      "date": "Por determinar",
+      "interviewer": "Coordinador CAS",
+      "format": "written",
+      "content": "La Entrevista 3 tendrá lugar cerca del final de mi viaje CAS. Esta conversación final se centrará en sintetizar mis experiencias CAS, evaluar mi crecimiento general y reflexionar sobre cómo CAS me ha preparado para la vida más allá del IB. Discutiremos el impacto duradero de mi viaje CAS.",
+      "reflection": "Esta entrevista se actualizará después de que tenga lugar."
+    }
+  ],
+  "note": "Las entrevistas se pueden realizar en varios formatos, incluidas respuestas escritas, grabaciones de audio, grabaciones de video, formatos creativos (poemas, canciones, dibujos) o conversaciones tradicionales cara a cara. El formato se determinará según lo que mejor se adapte al propósito de cada entrevista."
+}

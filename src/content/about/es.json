@@ -1,0 +1,10 @@
+{
+  "name": "Maria Purik",
+  "title": "Estudiante del Programa del Diploma del IB",
+  "bio": "Soy estudiante del Bachillerato Internacional apasionada por el aprendizaje, la creatividad y generar un impacto positivo en mi comunidad. A través de mis experiencias CAS, he desarrollado habilidades de liderazgo, conciencia cultural y compromiso con el crecimiento personal.",
+  "school": "Colegio Internacional",
+  "graduationYear": 2026,
+  "socialLinks": {
+    "email": "maria@example.com"
+  }
+}

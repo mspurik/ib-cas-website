@@ -1,0 +1,51 @@
+{
+  "title": "What is CAS?",
+  "subtitle": "Creativity, Activity, Service",
+  "introduction": "CAS (Creativity, Activity, Service) is one of the core components of the IB Diploma Programme. It involves students in a range of activities alongside their academic studies. CAS is structured around the three strands that give it its name.",
+  "sections": [
+    {
+      "title": "Creativity",
+      "icon": "C",
+      "color": "purple",
+      "description": "Exploring and extending ideas leading to an original or interpretive product or performance.",
+      "examples": [
+        "Visual and performing arts",
+        "Digital design",
+        "Creative writing",
+        "Music and composition"
+      ]
+    },
+    {
+      "title": "Activity",
+      "icon": "A",
+      "color": "green",
+      "description": "Physical exertion contributing to a healthy lifestyle, complementing academic work elsewhere in the Diploma Programme.",
+      "examples": [
+        "Individual and team sports",
+        "Dance and movement",
+        "Expeditions and outdoor activities",
+        "Physical exercise and training"
+      ]
+    },
+    {
+      "title": "Service",
+      "icon": "S",
+      "color": "blue",
+      "description": "Collaborative and reciprocal engagement with the community in response to an authentic need.",
+      "examples": [
+        "Community work",
+        "Environmental initiatives",
+        "Tutoring and mentoring",
+        "Social impact projects"
+      ]
+    }
+  ],
+  "objectives": [
+    "Enjoy and find significance in their work",
+    "Develop new skills",
+    "Develop the ability to work collaboratively",
+    "Engage with issues of global importance",
+    "Consider the ethical implications of their actions",
+    "Develop greater awareness of their own strengths and areas for growth"
+  ]
+}

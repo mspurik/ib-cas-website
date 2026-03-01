@@ -1,0 +1,67 @@
+{
+  "title": "Perfil del IB y CAS",
+  "subtitle": "Cómo se Conecta el Perfil del IB con CAS",
+  "introduction": "El Perfil de la Comunidad de Aprendizaje del IB describe los atributos y cualidades que el Bachillerato Internacional busca desarrollar en todos los estudiantes del IB. Las experiencias CAS brindan oportunidades auténticas para desarrollar y demostrar estos atributos en acción.",
+  "profiles": [
+    {
+      "attribute": "Indagadores",
+      "icon": "🔍",
+      "description": "Cultivamos nuestra curiosidad, a la vez que desarrollamos habilidades para la indagación y la investigación. Sabemos cómo aprender de manera autónoma y junto con otros. Aprendemos con entusiasmo y mantenemos estas ansias de aprender durante toda la vida.",
+      "casConnection": "A través de CAS, los estudiantes exploran nuevos intereses e investigan las necesidades de la comunidad, desarrollando habilidades de investigación y curiosidad sobre el mundo que los rodea."
+    },
+    {
+      "attribute": "Informados e instruidos",
+      "icon": "📚",
+      "description": "Desarrollamos y usamos nuestra comprensión conceptual mediante la exploración del conocimiento en una variedad de disciplinas. Nos comprometemos con ideas y cuestiones de importancia local y mundial.",
+      "casConnection": "Las experiencias CAS exponen a los estudiantes a diversos campos del conocimiento, desde las artes hasta las ciencias y el servicio comunitario, ampliando su comprensión de temas globales y locales."
+    },
+    {
+      "attribute": "Pensadores",
+      "icon": "💭",
+      "description": "Utilizamos habilidades de pensamiento crítico y creativo para analizar y proceder de manera responsable ante problemas complejos. Actuamos por propia iniciativa al tomar decisiones razonadas y éticas.",
+      "casConnection": "Planificar e implementar proyectos CAS requiere resolución creativa de problemas y pensamiento crítico para abordar desafíos del mundo real de manera efectiva."
+    },
+    {
+      "attribute": "Buenos comunicadores",
+      "icon": "💬",
+      "description": "Nos expresamos con confianza y creatividad en diversas lenguas, lenguajes y maneras. Colaboramos eficazmente, escuchando atentamente las perspectivas de otras personas y grupos.",
+      "casConnection": "Las actividades CAS a menudo implican trabajo en equipo, presentaciones y colaboración con grupos diversos, desarrollando habilidades de comunicación en varios contextos."
+    },
+    {
+      "attribute": "Íntegros",
+      "icon": "⚖️",
+      "description": "Actuamos con integridad y honradez, con un profundo sentido de la equidad, la justicia y el respeto por la dignidad y los derechos de las personas en todo el mundo. Asumimos la responsabilidad de nuestros propios actos y sus consecuencias.",
+      "casConnection": "Las actividades de servicio desarrollan particularmente la conciencia ética a medida que los estudiantes se involucran con temas de justicia social y asumen la responsabilidad de su impacto en las comunidades."
+    },
+    {
+      "attribute": "De mentalidad abierta",
+      "icon": "🌍",
+      "description": "Desarrollamos una apreciación crítica de nuestras propias culturas e historias personales, así como de los valores y tradiciones de los demás. Buscamos y consideramos distintos puntos de vista y estamos dispuestos a aprender de la experiencia.",
+      "casConnection": "Trabajar con comunidades diversas y participar en diferentes actividades culturales ayuda a los estudiantes a apreciar múltiples perspectivas y ampliar su visión del mundo."
+    },
+    {
+      "attribute": "Solidarios",
+      "icon": "❤️",
+      "description": "Mostramos empatía, sensibilidad y respeto. Nos comprometemos a ayudar a los demás y actuamos con el propósito de influir positivamente en la vida de las personas y el mundo que nos rodea.",
+      "casConnection": "El servicio está en el corazón de CAS, alentando a los estudiantes a mostrar compasión y hacer contribuciones significativas a sus comunidades."
+    },
+    {
+      "attribute": "Audaces",
+      "icon": "🎯",
+      "description": "Abordamos la incertidumbre con previsión y determinación. Trabajamos de manera autónoma y colaborativa para explorar nuevas ideas y estrategias innovadoras. Mostramos ingenio y resiliencia ante los desafíos y el cambio.",
+      "casConnection": "CAS desafía a los estudiantes a salir de su zona de confort, probar nuevas actividades y desarrollar resiliencia al enfrentar y superar obstáculos."
+    },
+    {
+      "attribute": "Equilibrados",
+      "icon": "⚖️",
+      "description": "Entendemos la importancia del equilibrio físico, mental y emocional para lograr el bienestar propio y el de los demás. Reconocemos nuestra interdependencia con respecto a otras personas y al mundo en que vivimos.",
+      "casConnection": "Las tres áreas de CAS (Creatividad, Actividad, Servicio) promueven un enfoque equilibrado del desarrollo personal, asegurando el crecimiento en múltiples dimensiones."
+    },
+    {
+      "attribute": "Reflexivos",
+      "icon": "🪞",
+      "description": "Evaluamos detenidamente el mundo y nuestras propias ideas y experiencias. Nos esforzamos por comprender nuestras fortalezas y debilidades para, de este modo, contribuir a nuestro aprendizaje y desarrollo personal.",
+      "casConnection": "La reflexión es un componente central de CAS, donde los estudiantes examinan regularmente sus experiencias, resultados de aprendizaje y crecimiento personal a lo largo de su trayectoria."
+    }
+  ]
+}

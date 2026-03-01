@@ -1,0 +1,51 @@
+{
+  "title": "¿Qué es CAS?",
+  "subtitle": "Creatividad, Actividad, Servicio",
+  "introduction": "CAS (Creatividad, Actividad, Servicio) es uno de los componentes troncales del Programa del Diploma del IB. Implica a los alumnos en una variedad de actividades además de las académicas. CAS está estructurado en torno a las tres áreas que le dan nombre.",
+  "sections": [
+    {
+      "title": "Creatividad",
+      "icon": "C",
+      "color": "purple",
+      "description": "Explorar y ampliar ideas que conducen a un producto o una actuación original o interpretativa.",
+      "examples": [
+        "Artes visuales y escénicas",
+        "Diseño digital",
+        "Escritura creativa",
+        "Música y composición"
+      ]
+    },
+    {
+      "title": "Actividad",
+      "icon": "A",
+      "color": "green",
+      "description": "Esfuerzo físico que contribuye a un estilo de vida saludable, complementando el trabajo académico en otras asignaturas.",
+      "examples": [
+        "Deportes individuales y de equipo",
+        "Danza y movimiento",
+        "Expediciones y actividades al aire libre",
+        "Ejercicio físico y entrenamiento"
+      ]
+    },
+    {
+      "title": "Servicio",
+      "icon": "S",
+      "color": "blue",
+      "description": "Compromiso colaborativo y recíproco con la comunidad en respuesta a una necesidad auténtica.",
+      "examples": [
+        "Trabajo comunitario",
+        "Apoyo a causas medioambientales",
+        "Tutorías y mentoría",
+        "Proyectos de impacto social"
+      ]
+    }
+  ],
+  "objectives": [
+    "Disfrutar y encontrar significado en su trabajo",
+    "Desarrollar nuevas habilidades",
+    "Desarrollar la capacidad de trabajar colaborativamente",
+    "Comprometerse con cuestiones de importancia global",
+    "Considerar las implicaciones éticas de sus acciones",
+    "Desarrollar una mayor conciencia de sus fortalezas y áreas de crecimiento"
+  ]
+}

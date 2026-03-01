@@ -1,0 +1,35 @@
+{
+  "title": "CAS Interviews",
+  "subtitle": "Three Formal Conversations About My CAS Journey",
+  "introduction": "Throughout the CAS programme, I participate in three formal interviews to reflect on my experiences, discuss my progress, and plan for future growth. These interviews provide valuable opportunities for structured reflection and feedback.",
+  "interviews": [
+    {
+      "id": "interview-1",
+      "number": 1,
+      "date": "TBD",
+      "interviewer": "CAS Coordinator",
+      "format": "written",
+      "content": "Interview 1 will take place early in my CAS journey. This conversation will focus on my initial goals, expectations, and plans for CAS. We will discuss the experiences I'm considering and how they align with the CAS strands and learning outcomes.",
+      "reflection": "This interview will be updated after it takes place."
+    },
+    {
+      "id": "interview-2",
+      "number": 2,
+      "date": "TBD",
+      "interviewer": "CAS Coordinator",
+      "format": "written",
+      "content": "Interview 2 will occur midway through my CAS programme. This conversation will review my progress, discuss challenges I've faced, and celebrate successes. We'll reflect on how my experiences have contributed to my personal growth and achievement of learning outcomes.",
+      "reflection": "This interview will be updated after it takes place."
+    },
+    {
+      "id": "interview-3",
+      "number": 3,
+      "date": "TBD",
+      "interviewer": "CAS Coordinator",
+      "format": "written",
+      "content": "Interview 3 will take place near the end of my CAS journey. This final conversation will focus on synthesizing my CAS experiences, evaluating my overall growth, and reflecting on how CAS has prepared me for life beyond the IB. We'll discuss the lasting impact of my CAS journey.",
+      "reflection": "This interview will be updated after it takes place."
+    }
+  ],
+  "note": "Interviews can be conducted in various formats including written responses, audio recordings, video recordings, creative formats (poems, songs, drawings), or traditional face-to-face conversations. The format will be determined based on what best suits each interview's purpose."
+}

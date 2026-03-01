@@ -1,0 +1,38 @@
+{
+  "id": "rosa-parks-trial-2024",
+  "slug": "rosa-parks-trial",
+  "title": "Judici a Rosa Parks",
+  "type": "punctual",
+  "branches": ["C"],
+  "contactPerson": {
+    "name": "Marc",
+    "role": "Profesor de Historia"
+  },
+  "personalObjective": "Superar mi miedo a exponer delante de toda la clase y desarrollar habilidades de actuación y empatía histórica representando a Claudette Colvin en una recreación del juicio de Rosa Parks.",
+  "personalChallenge": "Me daba miedo no hacerlo bien o equivocarme, ya que hablar en público es algo que me afecta bastante.",
+  "learningOutcomes": [1, 2, 5, 6, 7],
+  "stages": {
+    "investigation": {
+      "title": "Investigación",
+      "content": "En la clase de Historia estamos trabajando los derechos civiles en Estados Unidos. Nos explicaron el caso de Claudette Colvin en clase y luego tuve que buscar más información en Google. Había bastante contenido, ya que su caso es conocido, a diferencia de otras demandantes como Susie McDonald, de quien no hay tanto material.\\n\\nClaudette Colvin fue una adolescente de 15 años, emocional y con principios firmes. Pensé que encajaba mucho conmigo, por eso levanté la mano cuando el profesor mencionó este personaje."
+    },
+    "preparation": {
+      "title": "Preparación y Ensayo",
+      "content": "En cuanto supe mi rol, empecé a trabajar en el papel. Busqué información y escribí mi intervención sobre cómo Claudette y sus compañeros volvían de la escuela en autobús, cómo se sentó junto a la ventana, y cómo se negó a levantarse cuando el conductor lo ordenó.\\n\\nDecidí que no iba a decir todo literalmente, porque es mejor actuar de forma natural. Lo más importante para mí era entender mi rol y sentir lo que ella pasó; a partir de ahí, podía improvisar un poco.\\n\\nAunque me resulta difícil actuar en público, me pregunté: '¿Qué sentía Claudette en ese momento? ¿Cómo de injusto era todo lo que pasaba en Montgomery en esos años?'"
+    },
+    "action": {
+      "title": "Acción",
+      "content": "El 3 de octubre celebramos el 'Juicio de Rosa Parks'. El día del juicio nos dieron 30 minutos para repasar. Cuando empezó, llamaron a las demandantes y yo iba la segunda.\\n\\nEstaba muy nerviosa, pero me gustaba mucho la actuación que estábamos haciendo porque todos se habían preparado muy bien. Con miedo, pero decidida, me levanté y empecé a hablar, explicando mi experiencia como Claudette Colvin en el autobús."
+    },
+    "demonstration": {
+      "title": "Demostración",
+      "content": "Durante el juicio, representé a Claudette Colvin narrando cómo mis compañeros y yo volvíamos de la escuela en autobús, cómo me senté junto a la ventana y me negué a levantarme cuando el conductor lo ordenó. La recreación fue muy emotiva y todos los participantes se prepararon excelentemente.\\n\\nLa experiencia me permitió ponerme en la piel de alguien que vivió la segregación racial en primera persona."
+    },
+    "reflection": {
+      "title": "Reflexión",
+      "content": "Ser Claudette me provocó muchas emociones, tratando de sentir lo que ella sentiría en ese momento. Sí que es una adolescente, y por eso nos parecemos, pero no me rebelaría tanto como ella. Me sorprendió su actitud en el autobús, igual que la actitud de Rosa Parks.\\n\\nAl final, la recreación me hizo entender qué realmente pasaba en EE. UU. en cuanto a la segregación y discriminación de las personas de color, y todo lo injusto que en verdad pasaba. No me imagino qué podría hacer en el lugar de esta gente. Pero seguramente, me sentiría muy impotente y triste.\\n\\nEn general, me ha gustado mucho y creo que me ha abierto los ojos a cómo son las exposiciones públicas, y que aunque tengas miedo tienes que superarlo y pasártelo bien. La gracia era recrear el juicio de Rosa Parks, y creo que nos ha salido bastante bien."
+    }
+  },
+  "featured": true,
+  "date": "2024-10-03"
+}

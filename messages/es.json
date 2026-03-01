@@ -1,0 +1,102 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "whatIsCAS": "Qué es CAS",
+    "ibProfile": "Perfil del IB",
+    "organization": "Organización",
+    "swot": "DAFO",
+    "experiences": "Experiencias",
+    "projects": "Proyectos",
+    "interviews": "Entrevistas",
+    "finalReflection": "Reflexión Final",
+    "about": "Acerca de"
+  },
+  "cas": {
+    "creativity": "Creatividad",
+    "activity": "Actividad",
+    "service": "Servicio",
+    "all": "Todas las Experiencias"
+  },
+  "learningOutcomes": {
+    "title": "Resultados de Aprendizaje",
+    "LO1": "Identificar fortalezas propias y desarrollar áreas de crecimiento",
+    "LO2": "Demostrar que se han emprendido retos, desarrollando nuevas habilidades en el proceso",
+    "LO3": "Demostrar cómo iniciar y planificar una experiencia CAS",
+    "LO4": "Demostrar compromiso y perseverancia en las experiencias CAS",
+    "LO5": "Demostrar las habilitats y reconèixer els beneficis de treballar col·laborativament",
+    "LO6": "Demostrar compromís amb qüestions de rellevància global",
+    "LO7": "Reconèixer i considerar l'ètica de les eleccions i les accions"
+  },
+  "stages": {
+    "investigation": "Investigación",
+    "preparation": "Preparación",
+    "action": "Acción",
+    "demonstration": "Demostración",
+    "reflection": "Reflexión"
+  },
+  "experienceDetails": {
+    "contactPerson": "Persona de Contacto",
+    "objective": "Objectiu Personal",
+    "challenge": "Repte Personal",
+    "date": "Fecha",
+    "back": "Volver a Experiencias"
+  },
+  "common": {
+    "readMore": "Leer Más",
+    "viewDetails": "Ver Detalles",
+    "loading": "Cargando...",
+    "noExperiences": "No se encontraron experiencias"
+  },
+  "experienceTypes": {
+    "punctual": "Experiencia Puntual",
+    "ongoing": "Seguimiento de Experiencias",
+    "all": "Todas"
+  },
+  "swot": {
+    "title": "Análisis DAFO",
+    "strengths": "Fortalezas",
+    "weaknesses": "Debilidades",
+    "opportunities": "Oportunidades",
+    "threats": "Amenazas"
+  },
+  "projects": {
+    "title": "Proyectos CAS",
+    "duration": "Duración",
+    "collaborators": "Colaboradores",
+    "noProjects": "No hay proyectos disponibles"
+  },
+  "interviews": {
+    "title": "Entrevistas",
+    "interview": "Entrevista",
+    "interviewer": "Entrevistador",
+    "format": "Formato",
+    "reflection": "Reflexión",
+    "noInterviews": "No hay entrevistas disponibles"
+  },
+  "finalReflection": {
+    "title": "Reflexión Final",
+    "keyLearnings": "Aprendizajes Clave",
+    "futureGoals": "Objetivos Futuros",
+    "notAvailable": "La reflexión final estará disponible en enero/marzo 2026"
+  },
+  "organization": {
+    "title": "Tabla de Organización",
+    "type": "Tipo",
+    "status": "Estado",
+    "startDate": "Fecha Inicio",
+    "endDate": "Fecha Fin",
+    "statuses": {
+      "planned": "Planificado",
+      "in-progress": "En Progreso",
+      "completed": "Completado"
+    }
+  },
+  "whatIsCAS": {
+    "title": "¿Qué es CAS?",
+    "subtitle": "Creatividad, Actividad, Servicio"
+  },
+  "ibProfile": {
+    "title": "Perfil del IB y CAS",
+    "subtitle": "Cómo se relaciona el perfil del IB con CAS"
+  }
+}
