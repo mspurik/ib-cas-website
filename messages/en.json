@@ -3,7 +3,7 @@
     "home": "Home",
     "whatIsCAS": "What is CAS",
     "ibProfile": "IB Profile",
-    "organization": "Organization",
+    "organization": "Organization of experiences",
     "swot": "SWOT",
     "experiences": "Experiences",
     "projects": "Projects",
@@ -19,13 +19,29 @@
   },
   "learningOutcomes": {
     "title": "Learning Outcomes",
-    "LO1": "Identify own strengths and develop areas for growth",
-    "LO2": "Demonstrate that challenges have been undertaken, developing new skills in the process",
-    "LO3": "Demonstrate how to initiate and plan a CAS experience",
-    "LO4": "Show commitment to and perseverance in CAS experiences",
-    "LO5": "Demonstrate the skills and recognize the benefits of working collaboratively",
-    "LO6": "Demonstrate engagement with issues of global significance",
-    "LO7": "Recognize and consider the ethics of choices and actions"
+    "intro": "Below are the seven CAS learning outcomes. Each outcome explains a learning goal students should demonstrate through their CAS experiences, with examples and indicators to help identify achievement.",
+    "LO1_title": "LO1 — Identify strengths and areas for growth",
+    "LO1_desc": "Students should be able to recognise their personal strengths and weaknesses, reflect on them, and set realistic goals to develop. Evidence includes self-reflection, seeking feedback, and showing improvement over time in skills or behaviours.",
+    "LO1": "Students should be able to recognise their personal strengths and weaknesses, reflect on them, and set realistic goals to develop.",
+    "LO2_title": "LO2 — Undertake new challenges and develop skills",
+    "LO2_desc": "Students undertake tasks outside their comfort zone, demonstrating risk-taking, perseverance and the development of new abilities. Evidence includes trying unfamiliar roles, persisting through setbacks, and acquiring technical or interpersonal skills.",
+    "LO2": "Students undertake tasks outside their comfort zone, demonstrating risk-taking, perseverance and the development of new abilities.",
+    "LO3_title": "LO3 — Plan and initiate CAS experiences",
+    "LO3_desc": "Students demonstrate initiative by conceiving, planning and organising CAS activities. This includes identifying objectives, resources, timelines and responsibilities, as well as adapting plans when needed.",
+    "LO3": "Students demonstrate initiative by conceiving, planning and organising CAS activities, including identifying objectives and resources.",
+    "LO4_title": "LO4 — Show commitment and perseverance",
+    "LO4_desc": "Students show sustained engagement with activities over time, balancing commitments and demonstrating responsibility. Evidence includes completing long-term projects, regular attendance, and steady contribution to group tasks.",
+    "LO4": "Students show sustained engagement with activities over time, balancing commitments and demonstrating responsibility.",
+    "LO5_title": "LO5 — Work collaboratively and recognise benefits",
+    "LO5_desc": "Students demonstrate teamwork, communication and leadership within groups. They reflect on how collaboration enhances outcomes, manage conflicts constructively, and value diverse perspectives.",
+    "LO5": "Students demonstrate teamwork, communication and leadership within groups, and reflect on how collaboration enhances outcomes.",
+    "LO6_title": "LO6 — Demonstrate engagement with issues of global significance",
+    "LO6_desc": "Students connect their actions to broader social, cultural, environmental or ethical issues and show awareness of their impact. Evidence includes projects addressing real-world problems and critical reflection on global implications.",
+    "LO6": "Students connect their actions to broader social, cultural, environmental or ethical issues and show awareness of their impact.",
+    "LO7_title": "LO7 — Recognise and consider ethical implications",
+    "LO7_desc": "Students reflect on the ethical dimensions of their choices and actions, showing thoughtful decision-making. This includes considering consequences, fairness, respect for others, and responsible use of resources.",
+    "LO7": "Students reflect on the ethical dimensions of their choices and actions, showing thoughtful decision-making and consideration of consequences.",
+    "experiencesCount": "experiences"
   },
   "stages": {
     "investigation": "Investigation",
@@ -39,7 +55,8 @@
     "objective": "Personal Objective",
     "challenge": "Personal Challenge",
     "date": "Date",
-    "back": "Back to Experiences"
+    "back": "Back to Experiences",
+    "draftNotice": "Draft in progress — this experience has not yet been written."
   },
   "common": {
     "readMore": "Read More",
@@ -80,7 +97,7 @@
     "notAvailable": "Final reflection will be available in January/March 2026"
   },
   "organization": {
-    "title": "Organization Table",
+    "title": "Organization of experiences",
     "type": "Type",
     "status": "Status",
     "startDate": "Start Date",

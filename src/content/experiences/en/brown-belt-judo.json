@@ -1,0 +1,42 @@
+{
+    "id": "brown-belt-judo-2024",
+    "slug": "brown-belt-judo",
+    "title": "Brown Belt Judo",
+    "type": "punctual",
+    "branches": [
+        "A"
+    ],
+    "coverImage": "/images/experiences/brown-belt-judo.png",
+    "personalObjective": "To complete the requirements for the brown belt in judo.",
+    "personalChallenge": "Improve discipline and technique through regular training.",
+    "learningOutcomes": [
+        1,
+        2,
+        4
+    ],
+    "hours": 20,
+    "stages": {
+        "investigation": {
+            "title": "Investigation",
+            "content": "Researched required techniques and grading criteria."
+        },
+        "preparation": {
+            "title": "Preparation",
+            "content": "Planned training sessions and conditioning."
+        },
+        "action": {
+            "title": "Action",
+            "content": [
+                "Practiced throws, nage waza, and randori with partners.",
+                "Completed the grading demonstration and kata."
+            ]
+        },
+        "reflection": {
+            "title": "Reflection",
+            "content": "Reflected on progress and next goals for improvement."
+        }
+    },
+    "featured": false,
+    "date": "2025-06-01",
+    "draft": true
+}

@@ -1,16 +1,27 @@
 {
   "id": "rosa-parks-trial-2024",
   "slug": "rosa-parks-trial",
-  "title": "Judici a Rosa Parks",
+  "title": "Juicio a Rosa Parks",
   "type": "punctual",
-  "branches": ["C"],
+  "branches": [
+    "C",
+    "S"
+  ],
+  "coverImage": "/images/experiences/rosa-parks-trial.avif",
   "contactPerson": {
     "name": "Marc",
     "role": "Profesor de Historia"
   },
   "personalObjective": "Superar mi miedo a exponer delante de toda la clase y desarrollar habilidades de actuación y empatía histórica representando a Claudette Colvin en una recreación del juicio de Rosa Parks.",
   "personalChallenge": "Me daba miedo no hacerlo bien o equivocarme, ya que hablar en público es algo que me afecta bastante.",
-  "learningOutcomes": [1, 2, 5, 6, 7],
+  "learningOutcomes": [
+    1,
+    2,
+    5,
+    6,
+    7
+  ],
+  "hours": 12,
   "stages": {
     "investigation": {
       "title": "Investigación",
@@ -22,11 +33,10 @@
     },
     "action": {
       "title": "Acción",
-      "content": "El 3 de octubre celebramos el 'Juicio de Rosa Parks'. El día del juicio nos dieron 30 minutos para repasar. Cuando empezó, llamaron a las demandantes y yo iba la segunda.\\n\\nEstaba muy nerviosa, pero me gustaba mucho la actuación que estábamos haciendo porque todos se habían preparado muy bien. Con miedo, pero decidida, me levanté y empecé a hablar, explicando mi experiencia como Claudette Colvin en el autobús."
-    },
-    "demonstration": {
-      "title": "Demostración",
-      "content": "Durante el juicio, representé a Claudette Colvin narrando cómo mis compañeros y yo volvíamos de la escuela en autobús, cómo me senté junto a la ventana y me negué a levantarme cuando el conductor lo ordenó. La recreación fue muy emotiva y todos los participantes se prepararon excelentemente.\\n\\nLa experiencia me permitió ponerme en la piel de alguien que vivió la segregación racial en primera persona."
+      "content": [
+        "El 3 de octubre celebramos el 'Juicio de Rosa Parks'. El día del juicio nos dieron 30 minutos para repasar. Cuando empezó, llamaron a las demandantes y yo iba la segunda.\\n\\nEstaba muy nerviosa, pero me gustaba mucho la actuación que estábamos haciendo porque todos se habían preparado muy bien. Con miedo, pero decidida, me levanté y empecé a hablar, explicando mi experiencia como Claudette Colvin en el autobús.",
+        "Durante el juicio, representé a Claudette Colvin narrando cómo mis compañeros y yo volvíamos de la escuela en autobús, cómo me senté junto a la ventana y me negué a levantarme cuando el conductor lo ordenó. La recreación fue muy emotiva y todos los participantes se prepararon excelentemente.\\n\\nLa experiencia me permitió ponerme en la piel de alguien que vivió la segregación racial en primera persona."
+      ]
     },
     "reflection": {
       "title": "Reflexión",
@@ -34,5 +44,5 @@
     }
   },
   "featured": true,
-  "date": "2024-10-03"
+  "date": "2025-10-03"
 }

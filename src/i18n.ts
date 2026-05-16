@@ -1,4 +1,4 @@
-import { notFound } from 'next/navigation';
+// NOTE: `notFound` may be used by layouts to handle invalid locales.
 import { getRequestConfig } from 'next-intl/server';
 
 // Can be imported from a shared config

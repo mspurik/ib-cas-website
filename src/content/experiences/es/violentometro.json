@@ -1,0 +1,43 @@
+{
+    "id": "violentometro-2024",
+    "slug": "violentometro",
+    "title": "Violentómetro",
+    "type": "punctual",
+    "branches": [
+        "C",
+        "S"
+    ],
+    "coverImage": "/images/experiences/violentometre.png",
+    "personalObjective": "Diseñar una herramienta de concienciación sobre niveles de violencia.",
+    "personalChallenge": "Comunicar de forma sensible y efectiva.",
+    "learningOutcomes": [
+        2,
+        5,
+        7
+    ],
+    "hours": 7,
+    "stages": {
+        "investigation": {
+            "title": "Investigación",
+            "content": "Investigó conceptos de violencia y prevención."
+        },
+        "preparation": {
+            "title": "Preparación",
+            "content": "Planificó visuales y materiales."
+        },
+        "action": {
+            "title": "Acción",
+            "content": [
+                "Creó el póster del violentómetro y lo presentó.",
+                "Expuesto en el colegio y recogió comentarios."
+            ]
+        },
+        "reflection": {
+            "title": "Reflexión",
+            "content": "Consideró el impacto y siguientes pasos."
+        }
+    },
+    "featured": false,
+    "date": "2025-11-25",
+    "draft": true
+}

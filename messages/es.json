@@ -3,7 +3,7 @@
     "home": "Inicio",
     "whatIsCAS": "Qué es CAS",
     "ibProfile": "Perfil del IB",
-    "organization": "Organización",
+    "organization": "Carpeta CAS",
     "swot": "DAFO",
     "experiences": "Experiencias",
     "projects": "Proyectos",
@@ -19,13 +19,29 @@
   },
   "learningOutcomes": {
     "title": "Resultados de Aprendizaje",
-    "LO1": "Identificar fortalezas propias y desarrollar áreas de crecimiento",
-    "LO2": "Demostrar que se han emprendido retos, desarrollando nuevas habilidades en el proceso",
-    "LO3": "Demostrar cómo iniciar y planificar una experiencia CAS",
-    "LO4": "Demostrar compromiso y perseverancia en las experiencias CAS",
-    "LO5": "Demostrar las habilitats y reconèixer els beneficis de treballar col·laborativament",
-    "LO6": "Demostrar compromís amb qüestions de rellevància global",
-    "LO7": "Reconèixer i considerar l'ètica de les eleccions i les accions"
+    "intro": "A continuación se presentan los siete resultados de aprendizaje de CAS. Cada resultado describe una meta de aprendizaje que los estudiantes deben demostrar a través de sus experiencias, con ejemplos e indicadores para ayudar a identificar el logro.",
+    "LO1_title": "LO1 — Identificar fortalezas y áreas de crecimiento",
+    "LO1_desc": "Los estudiantes deben ser capaces de reconocer sus fortalezas y debilidades, reflexionar sobre ellas y establecer metas realistas para su desarrollo. Evidencias: reflexión personal, búsqueda de retroalimentación y mejoras observables en habilidades o comportamientos.",
+    "LO1": "Los estudiantes deben ser capaces de reconocer sus fortalezas y debilidades, reflexionar sobre ellas y establecer metas realistas para su desarrollo.",
+    "LO2_title": "LO2 — Emprender nuevos retos y desarrollar habilidades",
+    "LO2_desc": "Los estudiantes afrontan tareas fuera de su zona de confort, mostrando iniciativa, perseverancia y adquisición de nuevas capacidades. Evidencias: asumir roles desconocidos, persistir ante dificultades y aprender habilidades técnicas o interpersonales.",
+    "LO2": "Los estudiantes afrontan tareas fuera de su zona de confort, mostrando iniciativa, perseverancia y adquisición de nuevas capacidades.",
+    "LO3_title": "LO3 — Planificar e iniciar experiencias CAS",
+    "LO3_desc": "Los estudiantes demuestran iniciativa al concebir, planificar y organizar actividades de CAS. Incluye definir objetivos, recursos, cronograma y responsabilidades, y adaptar los planes cuando sea necesario.",
+    "LO3": "Los estudiantes demuestran iniciativa al concebir, planificar y organizar actividades de CAS, incluyendo definir objetivos y recursos.",
+    "LO4_title": "LO4 — Compromiso y perseverancia",
+    "LO4_desc": "Los estudiantes muestran participación sostenida a lo largo del tiempo, equilibrando compromisos y asumiendo responsabilidad. Evidencias: completar proyectos a largo plazo, asistencia regular y contribución constante en trabajos en grupo.",
+    "LO4": "Los estudiantes muestran participación sostenida a lo largo del tiempo, equilibrando compromisos y asumiendo responsabilidad.",
+    "LO5_title": "LO5 — Trabajar colaborativamente y reconocer beneficios",
+    "LO5_desc": "Los estudiantes demuestran trabajo en equipo, comunicación y liderazgo. Reflexionan sobre cómo la colaboración mejora los resultados, gestionan conflictos y valoran perspectivas diversas.",
+    "LO5": "Los estudiantes demuestran trabajo en equipo, comunicación y liderazgo, y reflexionan sobre cómo la colaboración mejora los resultados.",
+    "LO6_title": "LO6 — Compromiso con cuestiones de relevancia global",
+    "LO6_desc": "Los estudiantes conectan sus acciones con problemas sociales, culturales, medioambientales o éticos más amplios y muestran conciencia de su impacto. Evidencias: proyectos que abordan problemas reales y reflexión crítica sobre implicaciones globales.",
+    "LO6": "Los estudiantes conectan sus acciones con problemas sociales, culturales, medioambientales o éticos más amplios y muestran conciencia de su impacto.",
+    "LO7_title": "LO7 — Considerar las implicaciones éticas",
+    "LO7_desc": "Los estudiantes reflexionan sobre las dimensiones éticas de sus decisiones y acciones, mostrando toma de decisiones responsable. Incluye considerar consecuencias, equidad, respeto y uso responsable de recursos.",
+    "LO7": "Los estudiantes reflexionan sobre las dimensiones éticas de sus decisiones y acciones, mostrando toma de decisiones responsable.",
+    "experiencesCount": "experiencias"
   },
   "stages": {
     "investigation": "Investigación",
@@ -36,10 +52,11 @@
   },
   "experienceDetails": {
     "contactPerson": "Persona de Contacto",
-    "objective": "Objectiu Personal",
-    "challenge": "Repte Personal",
+    "objective": "Objetivo Personal",
+    "challenge": "Reto Personal",
     "date": "Fecha",
-    "back": "Volver a Experiencias"
+    "back": "Volver a Experiencias",
+    "draftNotice": "Redacción en proceso — esta experiencia aún no está redactada."
   },
   "common": {
     "readMore": "Leer Más",
@@ -80,7 +97,7 @@
     "notAvailable": "La reflexión final estará disponible en enero/marzo 2026"
   },
   "organization": {
-    "title": "Tabla de Organización",
+    "title": "Organización de experiencias",
     "type": "Tipo",
     "status": "Estado",
     "startDate": "Fecha Inicio",

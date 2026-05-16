@@ -11,7 +11,10 @@ export function ThemeToggle() {
 
   // useEffect only runs on the client, so now we can safely show the UI
   useEffect(() => {
-    setMounted(true);
+    // Defer to avoid synchronous setState inside effect which can trigger
+    // cascading renders and lint warnings. A micro task is sufficient.
+    const id = setTimeout(() => setMounted(true), 0);
+    return () => clearTimeout(id);
   }, []);
 
   if (!mounted) {

@@ -35,6 +35,7 @@ export interface CASExperience {
   };
   featured?: boolean; // For homepage highlights
   date?: string; // ISO date string
+  hours?: number | null;
   coverImage?: string; // Main image for card
   videoUrl?: string; // YouTube URL
 }
@@ -113,10 +114,12 @@ export interface FinalReflection {
 // Organization Table Entry
 export interface OrganizationEntry {
   id: string;
+  slug?: string;
   title: string;
   type: 'experience' | 'project';
   branches: CASBranch[];
   learningOutcomes: LearningOutcome[];
+  hours?: number | null;
   startDate?: string;
   endDate?: string;
   status: 'planned' | 'in-progress' | 'completed';

@@ -1,0 +1,57 @@
+{
+    "id": "school-cup-t-shirts-2025",
+    "slug": "school-cup-t-shirts",
+    "title": "T-Shirts for the School Cup",
+    "type": "punctual",
+    "branches": [
+        "C",
+        "S"
+    ],
+    "coverImage": "/images/experiences/school-cup.png",
+    "personalObjective": "To be responsible for creating the t-shirt design and painting the shirts for the school cup while working collaboratively and adapting the design to the materials available.",
+    "personalChallenge": "I wanted to stay organized, solve problems quickly when the original idea was not possible, and finish the shirts on time before the match.",
+    "learningOutcomes": [
+        1,
+        2,
+        4,
+        5,
+        7
+    ],
+    "hours": 16,
+    "date": "2026-01-29",
+    "endDate": "2026-01-29",
+    "stages": {
+        "investigation": {
+            "title": "Investigation",
+            "content": "On January 10, my classmates asked me to help with their project: organizing a school cup for boys and girls. Because I am a creative person and had never taken part in something like this before, I decided to collaborate with them. It excited me to think that my ideas could be used for something real in the school and not just stay as a drawing. My goal was to create something that represented the teams well and that people would be happy to wear.",
+            "images": [
+                "/images/experiences/school-cup-2.png",
+                "/images/experiences/school-cup-3.png"
+            ]
+        },
+        "preparation": {
+            "title": "Preparation and Planning",
+            "content": "First, I started thinking about how I wanted the logo to look, because for me that was the most important part. It had to look good but also reflect basketball and the school. I began making sketches, but soon I saw that they did not really match the centre. So I took the l'Alzina logo and looked for a way to combine it with basketball. After that, my classmates and I decided together how the shirt would look, but we had a problem with the paint. We could not make a design with as many colours as we wanted because we did not have enough material. At first, I thought about using stencils with spray paint, like Banksy, but since we could not get fabric spray paint, I had to look for another solution. In the end, I came up with the idea of painting the shirts with regular fabric paint using a sponge.",
+            "images": [
+                "/images/experiences/school-cup-1.png"
+            ]
+        },
+        "action": {
+            "title": "Action",
+            "content": [
+                "Because we had to simplify the design due to the lack of paint, I cut the logo stencil with a cutter. We spent two days painting the 20 shirts. I was responsible for all the logos and my classmate did the lines. It was a lot of work, but the result was worth it.",
+                "Once the shirts were finished, the design could be used by the teams in the school cup. Seeing the logo adapted to a sporty context made the project feel complete, and it was rewarding to know that the shirts were ready before the match."
+            ],
+            "images": [
+                "/images/experiences/school-cup-4.png",
+                "/images/experiences/school-cup-5.png",
+                "/images/experiences/school-cup-6.png"
+            ]
+        },
+        "reflection": {
+            "title": "Reflection",
+            "content": "In this activity, I learned to organize myself better, because we finished painting the shirts the day before the match and were a bit stressed. I realized that when something goes wrong, like not having spray paint, you have to react quickly and find another solution that works. In the end, using the sponge worked very well and I felt very proud when I saw my classmates playing with the shirts we had made. I understood that teamwork is essential to meet deadlines. I developed planning and organization skills. I learned how to adapt a brand image, the school logo, to a new sports context and to work with material limitations, developing artistic expression and personal initiative. I cannot say it was my favorite experience, because time pressure and the need to be more independent stressed me. But I think it was a good opportunity to develop my skills."
+        }
+    },
+    "featured": false
+}

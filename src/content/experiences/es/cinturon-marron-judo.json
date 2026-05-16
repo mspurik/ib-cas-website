@@ -1,0 +1,42 @@
+{
+    "id": "cinturon-marron-judo-2024",
+    "slug": "cinturon-marron-judo",
+    "title": "Cinturón Marrón Judo",
+    "type": "punctual",
+    "branches": [
+        "A"
+    ],
+    "coverImage": "/images/experiences/brown-belt-judo.png",
+    "personalObjective": "Completar los requisitos para el cinturón marrón en judo.",
+    "personalChallenge": "Mejorar la disciplina y la técnica mediante entrenamientos regulares.",
+    "learningOutcomes": [
+        1,
+        2,
+        4
+    ],
+    "hours": 20,
+    "stages": {
+        "investigation": {
+            "title": "Investigación",
+            "content": "Investigó las técnicas requeridas y los criterios de evaluación."
+        },
+        "preparation": {
+            "title": "Preparación",
+            "content": "Planificó sesiones de entrenamiento y acondicionamiento."
+        },
+        "action": {
+            "title": "Acción",
+            "content": [
+                "Practicó lanzamientos, nage waza y randori con compañeros.",
+                "Completó la demostración de graduación y el kata."
+            ]
+        },
+        "reflection": {
+            "title": "Reflexión",
+            "content": "Reflexionó sobre el progreso y los próximos objetivos de mejora."
+        }
+    },
+    "featured": false,
+    "date": "2025-06-01",
+    "draft": true
+}

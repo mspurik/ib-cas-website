@@ -16,6 +16,8 @@ interface ExperienceCardProps {
 export function ExperienceCard({ experience }: ExperienceCardProps) {
   const t = useTranslations('cas');
   const locale = useLocale();
+  const isSchoolCupExperience = experience.slug === 'school-cup-t-shirts';
+  const isRosaParksTrial = experience.slug === 'rosa-parks-trial';
 
   const formatDate = (dateString?: string) => {
     if (!dateString) return null;
@@ -32,12 +34,18 @@ export function ExperienceCard({ experience }: ExperienceCardProps) {
       <Card className="group h-full overflow-hidden transition-all hover:shadow-lg">
         {/* Cover Image */}
         <div className="relative aspect-video w-full overflow-hidden bg-muted">
-          {experience.coverImage ? (
+            {experience.coverImage ? (
             <Image
               src={experience.coverImage}
               alt={experience.title}
               fill
-              className="object-cover transition-transform group-hover:scale-105"
+              className={
+                isSchoolCupExperience
+                  ? 'object-contain scale-[0.67]'
+                  : isRosaParksTrial
+                    ? 'object-cover transition-transform group-hover:scale-105'
+                    : 'object-cover transition-transform group-hover:scale-105'
+              }
             />
           ) : (
             <div className="flex h-full w-full items-center justify-center bg-gradient-to-br from-purple-200 via-pink-200 to-blue-200 dark:from-purple-900 dark:via-pink-900 dark:to-blue-900">

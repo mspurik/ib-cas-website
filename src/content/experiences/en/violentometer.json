@@ -1,0 +1,43 @@
+{
+    "id": "violentometer-2024",
+    "slug": "violentometer",
+    "title": "Violentometer",
+    "type": "punctual",
+    "branches": [
+        "C",
+        "S"
+    ],
+    "coverImage": "/images/experiences/violentometre.png",
+    "personalObjective": "To design an awareness tool about levels of violence.",
+    "personalChallenge": "To communicate sensitively and effectively.",
+    "learningOutcomes": [
+        2,
+        5,
+        7
+    ],
+    "hours": 7,
+    "stages": {
+        "investigation": {
+            "title": "Investigation",
+            "content": "Researched concepts of violence and prevention."
+        },
+        "preparation": {
+            "title": "Preparation",
+            "content": "Planned visuals and materials."
+        },
+        "action": {
+            "title": "Action",
+            "content": [
+                "Created the violentometer poster and presented it.",
+                "Displayed at school and gathered feedback."
+            ]
+        },
+        "reflection": {
+            "title": "Reflection",
+            "content": "Considered impact and next steps."
+        }
+    },
+    "featured": false,
+    "date": "2025-11-25",
+    "draft": true
+}

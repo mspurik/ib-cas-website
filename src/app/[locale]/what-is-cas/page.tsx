@@ -1,6 +1,8 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import type { Locale } from '@/lib/types';
+import Link from 'next/link';
+import { getMessages } from 'next-intl/server';
 import { readFileSync } from 'fs';
 import { join } from 'path';
 
@@ -31,6 +33,7 @@ export default async function WhatIsCASPage({
 }) {
   const { locale } = await params;
   const content = await getContent(locale as Locale);
+  const messages = await getMessages();
 
   const colorClasses: Record<string, string> = {
     purple: 'bg-purple-100 dark:bg-purple-900 text-purple-700 dark:text-purple-300',
@@ -105,6 +108,21 @@ export default async function WhatIsCASPage({
                 </li>
               ))}
             </ul>
+          </CardContent>
+        </Card>
+
+        {/* Learning Outcomes quick link */}
+        <Card>
+          <CardHeader>
+            <CardTitle>{messages.learningOutcomes?.title || 'Learning Outcomes'}</CardTitle>
+            <CardDescription>
+              {messages.learningOutcomesIntro || 'See how experiences map to each LO.'}
+            </CardDescription>
+          </CardHeader>
+          <CardContent>
+            <Link href={`/${locale}/what-is-cas/learning-outcomes`} className="text-primary underline">
+              {messages.learningOutcomes?.title || 'Learning Outcomes'}
+            </Link>
           </CardContent>
         </Card>
       </div>

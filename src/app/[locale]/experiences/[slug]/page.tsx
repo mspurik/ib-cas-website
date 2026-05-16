@@ -25,9 +25,25 @@ export async function generateStaticParams() {
 export default async function ExperiencePage({ params }: Props) {
   const { locale, slug } = await params;
   const experience = await getExperienceBySlug(slug, locale as Locale);
+  const draftMessage = locale === 'es'
+    ? 'Redacción en proceso — esta experiencia aún no está redactada.'
+    : 'Draft in progress — this experience has not yet been written.';
 
   if (!experience) {
     notFound();
+  }
+
+  if (experience?.draft) {
+    return (
+      <div className="container py-8 md:py-12">
+        <div className="mx-auto max-w-4xl">
+          <ExperienceHeader experience={experience} />
+          <div className="mt-6 rounded-md bg-yellow-50 border-l-4 border-yellow-400 p-4 text-yellow-800">
+            {draftMessage}
+          </div>
+        </div>
+      </div>
+    );
   }
 
   return (

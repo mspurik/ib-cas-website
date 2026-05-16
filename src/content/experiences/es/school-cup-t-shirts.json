@@ -1,0 +1,58 @@
+{
+    "id": "school-cup-t-shirts-2025",
+    "slug": "school-cup-t-shirts",
+    "title": "Camisetas para la Copa Colegial",
+    "type": "punctual",
+    "branches": [
+        "C",
+        "S"
+    ],
+    "coverImage": "/images/experiences/school-cup.png",
+    "personalObjective": "Ser responsable en la creación del diseño de las camisetas y en pintarlas para la copa colegial, trabajando de manera colaborativa y adaptando el diseño a los materiales disponibles.",
+    "personalChallenge": "Quería organizarme bien, resolver los problemas rápidamente cuando la idea original no fuera posible y terminar las camisetas a tiempo antes del partido.",
+    "learningOutcomes": [
+        1,
+        2,
+        4,
+        5,
+        7
+    ],
+    "hours": 16,
+    "date": "2026-01-29",
+    "endDate": "2026-01-29",
+    "stages": {
+        "investigation": {
+            "title": "Investigación",
+            "content": "El día 10 de enero mis compañeros de clase me pidieron ayuda para su proyecto: organizar una copa colegial de chicos y chicas. Como soy una persona creativa y nunca había participado en algo así, me animé a colaborar con ellos. Me hacía mucha ilusión ver cómo mis ideas podían servir para algo real en el colegio y no solo quedarse en un dibujo. Mi objetivo era crear algo que representara bien a los equipos y que a todos les gustara llevar puesto.",
+            "images": [
+                {
+                    "src": "/images/experiences/screenshot-2026-05-17-005308.png",
+                    "rotate": 90
+                },
+                "/images/experiences/school-cup-3.png"
+            ]
+        },
+        "preparation": {
+            "title": "Preparación y planificación",
+            "content": "Primero, me puse a pensar cómo quería que fuera el logo, ya que para mí es la parte más importante. Tenía que ser bonito pero también reflejar el baloncesto y el colegio. Empecé a hacer bocetos, pero pronto vi que no tenían nada que ver con el centro. Así que cogí el logo de l'Alzina y busqué la manera de combinarlo con el básquet. Después, junto con mis compañeras, decidimos cómo iba a ser la camiseta, pero tuvimos un problema con la pintura. No podíamos hacer un diseño con muchos colores como queríamos porque no teníamos suficiente material. Al principio pensé en usar stencils con spray, como hace Banksy, pero como no pudimos conseguir spray para tela, tuve que buscar otra opción. Al final, se me ocurrió que podíamos pintar las camisetas con pintura normal de tela usando una esponja.",
+            "images": []
+        },
+        "action": {
+            "title": "Acción",
+            "content": [
+                "Como tuvimos que simplificar el diseño por la falta de pintura, recorté la plantilla del logo con un cúter. Dedicamos dos días a pintar las 20 camisetas. Yo me encargué de todos los logos y mi compañera hizo las líneas. ¡Fue mucho trabajo, pero el resultado valió la pena!",
+                "Cuando terminamos las camisetas, el diseño ya estaba listo para que los equipos lo usaran en la copa colegial. Ver el logo adaptado a un contexto deportivo hizo que el proyecto se sintiera completo, y fue muy satisfactorio saber que las camisetas estaban listas antes del partido."
+            ],
+            "images": [
+                "/images/experiences/school-cup-4.png",
+                "/images/experiences/school-cup-5.png",
+                "/images/experiences/school-cup-6.png"
+            ]
+        },
+        "reflection": {
+            "title": "Reflexión",
+            "content": "En esta actividad, he aprendido a organizarme mejor, ya que terminamos de pintar las camisetas el día antes del partido y fuimos un poco estresadas. Me he dado cuenta de que cuando algo sale mal, como lo de no tener spray, hay que reaccionar rápido y buscar otra solución que funcione. Al final, usar la esponja quedó muy bien y me sentí muy orgullosa al ver a mis compañeros jugando con las camisetas que habíamos hecho nosotras. He entendido que el trabajo en equipo es fundamental para cumplir los plazos. He adquirido habilidades en planificación y organización. He aprendido a adaptar una imagen corporativa, el logo del colegio, a un nuevo contexto deportivo y a trabajar con limitaciones de material, desarrollando la competencia de expresión artística y la iniciativa personal. No puedo decir que fue mi experiencia favorita, ya que me estresa la falta de tiempo y la necesidad de ser más autónoma. Pero creo que fue una buena oportunidad para desarrollar mis habilidades."
+        }
+    },
+    "featured": false
+}

@@ -3,10 +3,18 @@
   "slug": "catalan-music-museum-nails",
   "title": "Nail Design Inspired by the Catalan Music Museum",
   "type": "punctual",
-  "branches": ["C"],
+  "coverImage": "/images/experiences/screenshot-2026-05-17-014414.png",
+  "branches": [
+    "C"
+  ],
   "personalObjective": "To develop my manicure skills by applying new and creative techniques, drawing inspiration from the art of the Palau de la Música Catalana to create unique designs that combine art and technique.",
   "personalChallenge": "I was afraid of not achieving a good result, as many techniques were completely unknown to me, especially using foils and chrome effects. I found it difficult to shape nails anatomically correctly and apply gel properly.",
-  "learningOutcomes": [1, 2, 4],
+  "learningOutcomes": [
+    1,
+    2,
+    4
+  ],
+  "hours": 20,
   "stages": {
     "investigation": {
       "title": "Investigation",
@@ -18,11 +26,22 @@
     },
     "action": {
       "title": "Action",
-      "content": "I started with the manicure itself: cutting the cuticle and preparing the nails. Then I applied the base and shaped the nails with a more square form, as many didn't have side walls and I had to reconstruct them.\n\nFirst, I did the middle finger nail. I applied the cat eye, but encountered the problem that it looked too gray, so I decided to apply the chrome afterward. I did one of the nails on the other hand the same way.\n\nThe next design was even more complicated. It was my first time using foils, which are basically designs that transfer to the nail, but it's actually more complex than it seems. To make sure I did it right, I first practiced on a test nail. I applied the foil glue and waited a minute until it became transparent. Then I placed the foil with the shiny side up. I pressed gently so it would adhere correctly. When I removed it, it left a beautiful design that clearly reminded me of the museum's motifs.\n\nOn other nails I decided to decorate, I had to draw the motifs by hand, inspired by the reference images I had."
-    },
-    "demonstration": {
-      "title": "Demonstration",
-      "content": "After drying the drawings with the lamp, I applied the gold chrome. Finally, I applied the top coat, dried it, and obtained the final result.\n\nThe final design combines several techniques: white cat eye with gold chrome on some nails, foils with angel motifs on others, and hand-drawn designs inspired by the ornaments of the Palau de la Música Catalana. The gold and white tones recreate the elegance and luminosity of the museum's art."
+      "content": [
+        "I started with the manicure itself: cutting the cuticle and preparing the nails. Then I applied the base and shaped the nails with a more square form, as many didn't have side walls and I had to reconstruct them.\n\nFirst, I did the middle finger nail. I applied the cat eye, but encountered the problem that it looked too gray, so I decided to apply the chrome afterward. I did one of the nails on the other hand the same way.\n\nThe next design was even more complicated. It was my first time using foils, which are basically designs that transfer to the nail, but it's actually more complex than it seems. To make sure I did it right, I first practiced on a test nail. I applied the foil glue and waited a minute until it became transparent. Then I placed the foil with the shiny side up. I pressed gently so it would adhere correctly.",
+        "When I removed it, it left a beautiful design that clearly reminded me of these motifs:",
+        "On other nails I decided to decorate, I had to draw the motifs by hand, inspired by the reference images I had. After drying the drawings with the lamp, I applied the gold chrome. Finally, I applied the top coat, dried it, and obtained this result.",
+        "The final design combines several techniques: white cat eye with gold chrome on some nails, foils with angel motifs on others, and hand-drawn designs inspired by the ornaments of the Palau de la Música Catalana. The gold and white tones recreate the elegance and luminosity of the museum's art."
+      ],
+      "images": [
+        {
+          "src": "/images/experiences/catalan-music-museum-nails-v3.png",
+          "position": 0
+        },
+        {
+          "src": "/images/experiences/catalan-music-museum-nails-v4.png",
+          "position": 1
+        }
+      ]
     },
     "reflection": {
       "title": "Reflection",
@@ -30,5 +49,5 @@
     }
   },
   "featured": false,
-  "date": "2024-09-15"
+  "date": "2025-09-15"
 }
