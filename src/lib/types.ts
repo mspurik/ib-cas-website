@@ -8,8 +8,8 @@ export type ExperienceType = 'punctual' | 'ongoing'; // Puntual o Seguimiento
 
 export interface CASStage {
   title: string;
-  content: string;
-  images?: string[]; // Paths to images
+  content: string | string[];
+  images?: Array<string | { src: string; position?: number; rotate?: number }>; // Paths or objects for images
 }
 
 export interface CASExperience {
@@ -18,6 +18,7 @@ export interface CASExperience {
   title: string;
   type: ExperienceType; // Puntual o Seguimiento
   branches: CASBranch[];
+  draft?: boolean;
   contactPerson?: {
     name: string;
     role?: string;

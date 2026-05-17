@@ -20,6 +20,7 @@ export default async function OrganizationPage({
     {
       id: 'project-por-definir',
       title: locale === 'en' ? 'Project' : 'Proyecto',
+      slug: undefined,
       type: 'project' as const,
       branches: [] as any,
       learningOutcomes: [] as any,
@@ -93,7 +94,7 @@ export default async function OrganizationPage({
               </div>
             </div>
             <div className="mt-5 flex flex-wrap gap-2">
-              {coveredOutcomes.map((lo) => (
+              {coveredOutcomes.map((lo: any) => (
                 <Badge key={lo} variant="secondary" className="rounded-full px-3 py-1">
                   LO{lo}
                 </Badge>
@@ -161,8 +162,8 @@ export default async function OrganizationPage({
                         <td className="py-4">
                           <div className="flex gap-1">
                             {entry.branches && entry.branches.length > 0 ? (
-                              entry.branches.map((branch) => {
-                                const branchInfo = CAS_BRANCHES[branch];
+                              entry.branches.map((branch: any) => {
+                                const branchInfo = (CAS_BRANCHES as any)[branch];
                                 return (
                                   <Badge
                                     key={branch}
@@ -188,7 +189,7 @@ export default async function OrganizationPage({
                         </td>
                         <td className="py-4">
                           <div className="flex flex-wrap gap-1">
-                            {entry.learningOutcomes.map((lo) => (
+                            {entry.learningOutcomes.map((lo: any) => (
                               <Badge key={lo} variant="outline" className="text-xs">
                                 {lo}
                               </Badge>
@@ -227,8 +228,8 @@ export default async function OrganizationPage({
                               ? 'Project'
                               : 'Proyecto'}
                         </Badge>
-                        {entry.branches.map((branch) => {
-                          const branchInfo = CAS_BRANCHES[branch];
+                        {entry.branches.map((branch: any) => {
+                          const branchInfo = (CAS_BRANCHES as any)[branch];
                           return (
                             <Badge
                               key={branch}
@@ -251,7 +252,7 @@ export default async function OrganizationPage({
                       </div>
                       <div className="flex flex-wrap gap-1">
                         <span className="text-sm font-medium mr-2">LO:</span>
-                        {entry.learningOutcomes.map((lo) => (
+                        {entry.learningOutcomes.map((lo: any) => (
                           <Badge key={lo} variant="outline" className="text-xs">
                             {lo}
                           </Badge>

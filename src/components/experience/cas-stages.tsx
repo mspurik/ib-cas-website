@@ -34,7 +34,7 @@ export function CASStages({ experience }: CASStagesProps) {
 
                 {contentIsArray ? (
                   <>
-                        {stageData.content.map((paragraph: string, pidx: number) => (
+                        {(stageData.content as string[]).map((paragraph: string, pidx: number) => (
                           <div key={pidx}>
                             <p className="whitespace-pre-line leading-relaxed text-muted-foreground text-justify">
                               {paragraph}

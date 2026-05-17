@@ -156,7 +156,9 @@ export async function getOrganizationEntries(locale: Locale): Promise<Organizati
   const existingSlugs = new Set(experiences.map((e) => e.slug));
   for (const s of projectSlugs) existingSlugs.add(s);
 
-  const filtered = allEntries.filter((entry) => existingSlugs.has(entry.slug));
+  const filtered = allEntries.filter(
+    (entry) => typeof entry.slug === 'string' && existingSlugs.has(entry.slug)
+  );
 
   return filtered.sort((a, b) => {
     if (a.startDate && b.startDate) {
